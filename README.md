@@ -4,6 +4,8 @@ This project explores the global spread and impact of COVID-19 using Python. The
 
 On March 11, 2020, the World Health Organization (WHO) officially declared COVID-19 a pandemic, citing over 118,000 confirmed cases across more than 110 countries and territories.
 
+---
+
 🧰 Python Libraries Used
 This analysis utilizes a wide range of Python libraries for data manipulation, visualization, and mapping:
 
